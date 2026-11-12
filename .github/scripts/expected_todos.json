@@ -1,0 +1,24 @@
+{
+  "luffy/deepscaler/utils.py": [
+    [45, "Add logging for API calls and errors"],
+    [46, "Support batch processing for multiple prompts"],
+    [47, "Add timeout configuration for API calls"],
+    [107, "Implement Vertex AI initialization and authentication"],
+    [108, "Configure safety settings for content generation"],
+    [109, "Set up GenerativeModel with proper system instructions"],
+    [110, "Implement retry logic with exponential backoff"],
+    [111, "Add comprehensive error handling for API access issues"],
+    [112, "Handle rate limiting and quota management"],
+    [113, "Implement response validation and text extraction"],
+    [114, "Add support for different generation configurations"]
+  ],
+  "luffy/verl/verl/protocol.py": [
+    [114, "Optimize memory usage during tensor reshaping"],
+    [115, "Add support for different tensor types and shapes"],
+    [136, "Optimize tensor view operations for performance"],
+    [137, "Add error handling for invalid batch dimensions"],
+    [169, "(zhangchi.usc1992) add consistency check"],
+    [265, "we can actually lift this restriction if needed"],
+    [351, "(zhangchi.usc1992) whether to copy"]
+  ]
+}
